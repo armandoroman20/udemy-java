@@ -1,6 +1,4 @@
-package jave_basics;
-
-import java.lang.reflect.Array;
+package java_basics;
 
 public class Arrays {
 
